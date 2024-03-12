@@ -17,9 +17,14 @@ I am a new Programmer with Skills of So many different Fields </h2>
   <img width="12" />
   <img src="https://e7.pngegg.com/pngimages/296/825/png-clipart-xml-illustration-computer-icons-logo-microsoft-word-markup-language-xml-angle-text.png" height="30" alt="mathml logo"  />
   <br>
- 
+
   <ul><li><h3> Programming Languages </h3></li></ul>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> 
+  
+  <br>
+
+  <ul><li><h3> DevOps </h3></li></ul>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
+  
 
 </div>
 
