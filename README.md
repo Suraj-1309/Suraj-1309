@@ -24,6 +24,9 @@ I am a new Programmer with Skills of So many different Fields </h2>
 
   <ul><li><h3> DevOps </h3></li></ul>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
+ <br><br><br>
+
+  ![](https://leetcard.jacoblin.cool/surajsinghch2055?ext=contest)
   
 
 </div>
