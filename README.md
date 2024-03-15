@@ -8,6 +8,9 @@ I am a new Programmer with Skills of So many different Fields </h2>
 ###
 
 <div align="left">
+  <ul><li><h3> Programming Languages </h3></li></ul>
+  <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <br>
  <ul><li><h3> Markup Languages </h3></li></ul> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -18,9 +21,6 @@ I am a new Programmer with Skills of So many different Fields </h2>
   <img src="https://e7.pngegg.com/pngimages/296/825/png-clipart-xml-illustration-computer-icons-logo-microsoft-word-markup-language-xml-angle-text.png" height="30" alt="mathml logo"  />
   <br>
 
-  <ul><li><h3> Programming Languages </h3></li></ul>
-  
-  <br>
 
   <ul><li><h3> DevOps </h3></li></ul>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
@@ -34,13 +34,9 @@ I am a new Programmer with Skills of So many different Fields </h2>
    <ul><li><h3> To know my Coding Skills </h3></li></ul>
  <a href="https://www.hackerrank.com/@surajsinghch2055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@surajsinghch2055" height="40" width="40" /></a>
    <img width="12" />
-   <br>
 <a href="https://www.leetcode.com/surajsinghch2055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="surajsinghch2055" height="40" width="40" /></a>
   <img width="12" />
 <a href="https://www.hackerearth.com/@sensay1309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sensay1309" height="40" width="40" /></a>
 </p>
 </div>
-###
-<div align="left">
-</div>
-###
+
