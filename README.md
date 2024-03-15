@@ -1,9 +1,11 @@
 <h2> Hi 👋 I am Suraj <br>
 I am a new Programmer with Skills of So many different Fields </h2>
+<h2>👩🏻‍💻 Currently Studing in <b> Govt. Ploytechnic Dehradun<br>
+       Computer Science Engineering</b></h2>
 
 ###
 
-<img align="right" height="150" src=""  />
+<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqy-Vc2t3ziqg6wxZtwSyKY2w5r3U9WsD70ZZqeXw6a1ODyNVT8FwmUnH7-HfaQdAFoJ0&usqp=CAU"  />
 
 ###
 
