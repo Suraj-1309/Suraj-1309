@@ -1,7 +1,8 @@
-<h2> Hi 👋 I am Suraj <br>
+<h2 align="center"><b> Hi 👋 I am Suraj </b><br>
 I am a new Programmer with Skills of So many different Fields </h2>
-<h2>👩🏻‍💻 Currently Studing in <b> Govt. Ploytechnic Dehradun<br>
-       Computer Science Engineering</b></h2>
+<h2>Introduce To Coding: September-2023</h2>
+<h2>👩🏻‍💻 Currently Studing in <b> Govt. Ploytechnic Dehradun
+       Computer Science Engineering</h2>
 
 ###
 
@@ -30,6 +31,9 @@ I am a new Programmer with Skills of So many different Fields </h2>
   
   <ul><li><h3> DevOps </h3></li></ul>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+ <br>
+ <ul><li><h3> IDE I used </h3></li></ul>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/1200px-Notepad%2B%2B_Logo.svg.png" alt="notepad" width="40" height="40"/>
  <br><br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suraj-1309&show_icons=true&locale=en&layout=compact" alt="suraj-1309" /></p>
 
