@@ -44,7 +44,7 @@ I am a new Programmer with Skills of So many different Fields </h2>
    <ul><li><h3> To know my Coding Skills </h3></li></ul>
  <a href="https://www.hackerrank.com/@surajsinghch2055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@surajsinghch2055" height="40" width="40" /></a>
    <img width="12" />
-<a href="https://www.leetcode.com/surajsinghch2055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="surajsinghch2055" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/suraj_1309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="surajsinghch2055" height="40" width="40" /></a>
   <img width="12" />
 <a href="https://www.hackerearth.com/@sensay1309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sensay1309" height="40" width="40" /></a>
 </p>
