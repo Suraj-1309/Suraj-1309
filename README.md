@@ -32,6 +32,10 @@ I am a new Programmer with Skills of So many different Fields </h2>
   <ul><li><h3> DevOps </h3></li></ul>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
  <br>
+ 
+ <ul><li><h3> DataBase </h3></li></ul>
+  <p align="left"> <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKu642ZB1K6RJEBa0zT1SnmTAWf05EEQ-lcpGIuf1yQw&s" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKu642ZB1K6RJEBa0zT1SnmTAWf05EEQ-lcpGIuf1yQw&s" alt="Access" width="40" height="40"/> </a> 
+  <br>
  <ul><li><h3> IDE I used </h3></li></ul>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/1200px-Notepad%2B%2B_Logo.svg.png" alt="notepad" width="40" height="40"/>
  <br><br><br>
