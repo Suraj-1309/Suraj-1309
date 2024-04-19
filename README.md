@@ -27,6 +27,8 @@ I am a new Programmer with Skills of So many different Fields </h2>
  <ul><li><h3> Styling</h3></li></ul> 
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" height="40" alt="html5 logo"  />
   <img width="12" />
+  <img src="https://golemverse.org/news/skeleteon-css-in-shiny/featured.png" height="40" alt="html5 logo"  />
+  <img width="12" />
   <br>
   
   <ul><li><h3> DevOps </h3></li></ul>
@@ -46,11 +48,18 @@ I am a new Programmer with Skills of So many different Fields </h2>
   ![](https://leetcard.jacoblin.cool/suraj_1309?ext=contest)
  <br><br><br>
    <ul><li><h3> To know my Coding Skills </h3></li></ul>
- <a href="https://www.hackerrank.com/@surajsinghch2055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@surajsinghch2055" height="40" width="40" /></a>
    <img width="12" />
 <a href="https://www.leetcode.com/suraj_1309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="surajsinghch2055" height="40" width="40" /></a>
   <img width="12" />
-<a href="https://www.hackerearth.com/@sensay1309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sensay1309" height="40" width="40" /></a>
+<a href="https://www.codechef.com/users/im_nika" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="im_nika" height="40" width="40" /></a>
+<img width="12" />
+<a href="https://codeforces.com/profile/suraj_1309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="suraj_1309" height="40" width="40" /></a>
+<img width="12" />
+<a href="https://auth.geeksforgeeks.org/user/surajsingnyzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="surajsingnyzr" height="40" width="40" /></a>
+<img width="12" />
+ <a href="https://www.hackerrank.com/@surajsinghch2055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@surajsinghch2055" height="40" width="40" /></a>
+ <a href="https://www.hackerearth.com/@sensay1309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sensay1309" height="40" width="40" /></a>
+<img width="12" />
 </p>
 </div>
 
