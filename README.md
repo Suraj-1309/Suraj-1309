@@ -30,9 +30,11 @@ I am a new Programmer with Skills of So many different Fields </h2>
 
  <ul><li><h3> Styling</h3></li></ul> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
-   <img width="12" />
+   <img width="8" />
    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="50"/> 
-   <img width="12" />
+   <img width="8" />
+   <img src="https://seeklogo.com/images/M/materialize-logo-0FCAD8A6F8-seeklogo.com.png" alt="materialize" width="60" height="40"/>
+   <img width="8" />
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" height="40" alt="bulma logo"  />
   <img width="12" />
   <img src="https://golemverse.org/news/skeleteon-css-in-shiny/featured.png" height="40" alt="html5 logo"  />
