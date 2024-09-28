@@ -1,5 +1,4 @@
-<h2 align="center"><b> Hi 👋 I am Suraj </b><br>
-I am a new Programmer with Skills of So many different Fields </h2>
+<h2 align="center"><b> Hi 👋 I am Suraj </b><br> </h2>
 <h2>Introduce To Coding: September-2023</h2>
 <h2>👩🏻‍💻 Currently Studing in <b> Govt. Ploytechnic Dehradun
        Computer Science Engineering</h2>
@@ -23,8 +22,6 @@ I am a new Programmer with Skills of So many different Fields </h2>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MathML-Logo.svg/2048px-MathML-Logo.svg.png" height="40" alt="mathml logo"  />
-  <img width="12" />
   <img src="https://e7.pngegg.com/pngimages/296/825/png-clipart-xml-illustration-computer-icons-logo-microsoft-word-markup-language-xml-angle-text.png" height="40" alt="mathml logo"  />
   <br>
 
@@ -47,11 +44,8 @@ I am a new Programmer with Skills of So many different Fields </h2>
  
  <ul><li><h3> DataBase </h3></li></ul>
   <p align="left"> <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKu642ZB1K6RJEBa0zT1SnmTAWf05EEQ-lcpGIuf1yQw&s" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKu642ZB1K6RJEBa0zT1SnmTAWf05EEQ-lcpGIuf1yQw&s" alt="Access" width="40" height="40"/> </a> 
-  <br>
-         
- <ul><li><h3> IDE I used </h3></li></ul>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/1200px-Notepad%2B%2B_Logo.svg.png" alt="notepad" width="40" height="40"/>
 
+         
 <br> 
 <ul><li><h3> To know my Coding Skills </h3></li></ul>
 <img width="12" />
