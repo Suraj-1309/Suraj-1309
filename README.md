@@ -30,19 +30,14 @@
 <img width="12" />
 <a href="https://www.leetcode.com/suraj_1309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="surajsinghch2055" height="40" width="40" /></a>
   <img width="12" />
-  
 <a href="https://www.codechef.com/users/im_nika" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="im_nika" height="40" width="40" /></a>
 <img width="12" />
-
 <a href="https://codeforces.com/profile/suraj_1309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="suraj_1309" height="40" width="40" /></a>
 <img width="12" />
-
 <a href="https://auth.geeksforgeeks.org/user/surajsingnyzr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="surajsingnyzr" height="40" width="40" /></a>
-<img width="12" />
-
+<img width="12"/>
  <a href="https://www.hackerrank.com/surajsinghch2055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@surajsinghch2055" height="40" width="40" /></a>
  <img width="12" />
- 
  <a href="https://www.hackerearth.com/@sensay1309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sensay1309" height="40" width="40" /></a>
 <img width="12" />
 </p>
