@@ -24,9 +24,12 @@
   <img width="10" />
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="50" height="50"/>
   <img width="10" />
-  <br>
  <br>
 
+<ul><li><h3> AILML Tools </h3></li></ul> 
+ <img src="https://jupyter.org/assets/homepage/main-logo.svg" height="50" width="50" alt="jupyter nootbook" />
+ <img width="10" />
+<br>
 <ul><li><h3> To know my Coding Skills </h3></li></ul>
 <img width="12" />
 <a href="https://www.leetcode.com/suraj_1309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="surajsinghch2055" height="40" width="40" /></a>
