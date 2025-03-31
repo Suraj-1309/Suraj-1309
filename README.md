@@ -30,6 +30,13 @@
  <img src="https://jupyter.org/assets/homepage/main-logo.svg" height="50" width="50" alt="jupyter nootbook" />
  <img width="10" />
 <br>
+
+<ul><li><h3> DevOps </h3></li></ul> 
+ <img src="https://th.bing.com/th/id/ODLS.41a3726a-404b-4a69-a7d8-22611d9b240a?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" height="40" width="40" alt="git" />
+ <img width="10" />
+<br>
+
+
 <ul><li><h3> To know my Coding Skills </h3></li></ul>
 <img width="12" />
 <a href="https://www.leetcode.com/suraj_1309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="surajsinghch2055" height="40" width="40" /></a>
